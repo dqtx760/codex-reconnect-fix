@@ -1,0 +1,21 @@
+# 编译与打包产物
+bin/
+obj/
+dist/
+publish/
+
+# 编辑器与本机设置
+.vs/
+.idea/
+*.user
+*.suo
+
+# 用户配置、凭据、备份与日志
+.codex/
+.env
+.env.*
+.codex-reconnect-fix.state.json*
+*.bak
+*.log
+auth.json
+config.toml
